@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
  
   <name>OpenForecast Root</name>
-  <description>OpenForecast is an open source forecasting system.</description>
+  <description>OpenForecast is an open source forecasting system. This includes the library and examples.</description>
   <url>http://sourceforge.net/projects/openforecast/</url>
   <inceptionYear>2003</inceptionYear>
   <licenses>
@@ -27,8 +27,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
-  <groupId>net.sourceforge.openforecast</groupId>
-  <artifactId>root-pom</artifactId>
+  <groupId>com.github.lbordowitz</groupId>
+  <artifactId>openforecast-root</artifactId>
   <version>0.5.0</version>
   <packaging>pom</packaging>
 
