@@ -6,24 +6,13 @@ Requirements
 To build OpenForecast, you will need the following tools:
 
  - a Java compiler (works with J2SDK 1.3 and above)
- - Ant 1.5 or later (earlier versions may work too)
+ - Maven build tool
 
 
 Building OpenForecast
 =====================
 
-Using ant, the available targets are as follows:
-
-   compile  Compiles core library source files
-   test     Compile and run the tests
-   examples Compiles example source files
-   docs     Generates javadocs
-   dist     Builds files for distribution
-   clean    Removes all temporary and build files
-   usage    Displays this usage information
-
-Note that with version OpenForecast 0.4.0, the default is to make the targets: compile, test. That is, to compile all source files, then build and run all the test cases.
-
+The command "mvn clean package" will produce a .jar file in the target directory, which can be used in any project.
 
 
 Steven R. Gould
