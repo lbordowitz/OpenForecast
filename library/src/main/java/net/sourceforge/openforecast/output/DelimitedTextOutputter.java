@@ -207,7 +207,7 @@ public class DelimitedTextOutputter implements Outputter
      *
      * <p>Depending on the setting of outputHeaderRow, a header row containing
      * the variable names of the data points will be output. To enable/disable
-     * this feature, use the {@link #setOutputHeaderRow} method.</li>
+     * this feature, use the {@link #setOutputHeaderRow} method.
      * @param dataSet the DataSet to be output to the current writer.
      * @throws IOException if an I/O error occurs.
      */

@@ -25,13 +25,13 @@
   </developers>
 
     <parent>
-      <groupId>net.sourceforge.openforecast</groupId>
-      <artifactId>root-pom</artifactId>
+      <groupId>com.github.lbordowitz.openforecast</groupId>
+      <artifactId>root</artifactId>
       <version>0.5.0</version>
     </parent>
 
-  <groupId>com.github.lbordowitz</groupId>
-  <artifactId>openforecast-examples</artifactId>
+  <groupId>com.github.lbordowitz.openforecast</groupId>
+  <artifactId>examples</artifactId>
   <version>0.5.0</version>
 
   <dependencies>
@@ -44,7 +44,7 @@
         <artifactId>jcommon</artifactId>
     </dependency>
 	<dependency>
-	  <groupId>net.sourceforge.openforecast</groupId>
+	  <groupId>com.github.lbordowitz.openforecast</groupId>
 	  <artifactId>openforecast</artifactId>
 	</dependency>
   </dependencies>

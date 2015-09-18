@@ -45,7 +45,7 @@ import net.sourceforge.openforecast.DataSet;
  * a hyperplane through the data points. Mathematically, assuming the
  * independent variables are x<sub>i</sub> and the dependent variable is y,
  * then this hyperplane can be represented as:
- * <pre>y = a<sub>0</sub> + a<sub>1</sub>*x<sub>1</sub> + a<sub>2</sub>*x<sub>2</sub> + a<sub>3</sub>*x<sub>3</sub> + ...</pre>
+ * y = a<sub>0</sub> + a<sub>1</sub>*x<sub>1</sub> + a<sub>2</sub>*x<sub>2</sub> + a<sub>3</sub>*x<sub>3</sub> + ...
  * where the a<sub>i</sub> are the coefficients of the regression. The
  * coefficient a<sub>0</sub> is also referred to as the intercept. If all
  * x<sub>i</sub> were zero (theoretically at least), it is the forecast value

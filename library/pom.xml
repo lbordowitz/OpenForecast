@@ -25,12 +25,12 @@
   </developers>
 
     <parent>
-      <groupId>net.sourceforge.openforecast</groupId>
-      <artifactId>root-pom</artifactId>
+      <groupId>com.github.lbordowitz.openforecast</groupId>
+      <artifactId>root</artifactId>
       <version>0.5.0</version>
     </parent>
 
-  <groupId>com.github.lbordowitz</groupId>
+  <groupId>com.github.lbordowitz.openforecast</groupId>
   <artifactId>openforecast</artifactId>
   <version>0.5.0</version>
 

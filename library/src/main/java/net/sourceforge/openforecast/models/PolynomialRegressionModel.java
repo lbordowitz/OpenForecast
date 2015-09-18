@@ -41,7 +41,7 @@ import net.sourceforge.openforecast.DataSet;
  * Mathematically, assuming the independent variable is x and the dependent
  * variable is y, then this line can be represented as:
  *
- * <pre>y = a<sub>0</sub> + a<sub>1</sub>*x + a<sub>2</sub>*x<sup>2</sup> + a<sub>3</sub>*x<sup>3</sup> + ... + a<sub>m</sub>*x<sup>m</sup></pre>
+ * y = a<sub>0</sub> + a<sub>1</sub>*x + a<sub>2</sub>*x<sup>2</sup> + a<sub>3</sub>*x<sup>3</sup> + ... + a<sub>m</sub>*x<sup>m</sup>
  *
  * You can specify the order of the polynomial fit (the value of
  * <code>m</code> in the above equation) in the constructor.
