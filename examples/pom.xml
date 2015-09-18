@@ -5,16 +5,24 @@
   <modelVersion>4.0.0</modelVersion>
  
   <name>OpenForecast Examples</name>
-  <description>OpenForecast is an open source forecasting system.</description>
+  <description>Examples using OpenForecast, an open source forecasting system.</description>
   <url>http://sourceforge.net/projects/openforecast/</url>
   <inceptionYear>2003</inceptionYear>
   <licenses>
     <license>
       <name>GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1</name>
-      <url>LICENSE.txt</url>
+      <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
+  <developers>
+    <developer>
+      <name>Steven R. Gould</name>
+      <email>openforecast@stevengould.org</email>
+      <organization>StevenGould.org</organization>
+      <organizationUrl>http://stevengould.org/</organizationUrl>
+    </developer>
+  </developers>
 
     <parent>
       <groupId>net.sourceforge.openforecast</groupId>
