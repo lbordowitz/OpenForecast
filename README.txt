@@ -8,6 +8,17 @@ To build OpenForecast, you will need the following tools:
  - a Java compiler (works with J2SDK 1.3 and above)
  - Maven build tool
 
+Using OpenForecast
+==================
+
+To use OpenForecast in a Maven project, include this in your dependencies:
+
+<dependency>
+  <groupId>com.github.lbordowitz.openforecast</groupId>
+  <artifactId>openforecast</artifactId>
+  <version>0.5.0</version>
+</dependency>
+
 
 Building OpenForecast
 =====================
